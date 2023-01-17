@@ -4,7 +4,7 @@
 - Meu maior sonho é poder andar normalmente.
 - Tambem sonho em construir um robô.
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/Zecamilplano/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zecamilplano"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zecamilplano&layout=compact"/>
